@@ -8,7 +8,7 @@ import java.util.Map;
  * @Date: 2018/9/8 10:48
  * @Description:
  */
-public class Solution {
+public class TwoSum {
     /**
      * @author: fanbopeng
      * @Date: 2018/9/8 10:43
@@ -113,7 +113,7 @@ public class Solution {
             int target=8;
 
 
-            Solution.twoSum3(ints, target);
+            TwoSum.twoSum3(ints, target);
         }
     }
 
